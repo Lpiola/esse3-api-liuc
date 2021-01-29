@@ -1,7 +1,7 @@
 # esse3-api-liuc
 
 
-This library allows you to connect and perform some basic operations on the University's online platform. The code was tailor-made for the LIUC university (https://sol.liuc.it) but with minor changes it is possible to make it work for another (more or less) 70 Italian universities.
+This library allows you to connect and perform some basic operations on the University's online platform. The code was tailor-made for the LIUC university (https://sol.liuc.it) but with minor changes it is possible to make it work for (more or less) 70 Italian universities.
 
 ## Installing
 
@@ -52,7 +52,7 @@ The function that uses HTTP requests scraping theoretically cannot work for othe
 
 ## What's next?
 
-I'll try to implement endpoints for all the other uniin a dynamic way and add more functions. 
+I'll try to implement endpoints for all the other unis in a dynamic way and add more functions. 
 A simple telegram bot using these APIs will be released in few days. 
 
 I'm sorry, but I'm neither a professional programmer nor programming is the focus of my study career, so the code is a big mess :)
