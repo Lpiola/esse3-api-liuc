@@ -55,4 +55,3 @@ The function that uses HTTP requests scraping theoretically cannot work for othe
 I'll try to implement endpoints for all the other unis in a dynamic way and add more functions. 
 A simple telegram bot using these APIs will be released in few days. 
 
-I'm sorry, but I'm neither a professional programmer nor programming is the focus of my study career, so the code is a big mess :)
